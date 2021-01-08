@@ -1,0 +1,12 @@
+/* Questions: what is the 'good practice way to format a CSS document */
+
+
+h1{
+font-family: 'Pirata One';
+
+}
+
+body{
+    background-color: rgb(250, 185, 230);
+}
+
