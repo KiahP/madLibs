@@ -12,4 +12,6 @@ body{
 
 img{
     width:300px;
+    border-radius: 10%;
+    border:10px solid rgb(190, 119, 190) ;
 }
